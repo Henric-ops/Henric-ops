@@ -27,7 +27,52 @@
 - 🗄️ Modelagem e banco de dados  
 - ⚡ Aplicações web  
 - 🧩 CRUDs e sistemas completos  
-- 📚 Aprendizado contínuo  
+
+---
+
+## 🚀 Projetos
+
+
+### 💈 BarberHub
+
+<p align="center">
+</p>
+
+Sistema de agendamento para barbearia em desenvolvimento, com funcionalidades de cadastro de clientes, serviços e controle de horários.  
+
+🔧 **Status:** Em desenvolvimento  
+
+🔗 https://github.com/Henric-ops/BarberHub
+
+---
+
+### 📚 Sistema de TCC e Bancas
+
+#### 📄 TCC
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaInicialTCC.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaaddTCC.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaedicaoTCC.png" width="400"/>
+</p>
+
+#### 🧑‍🏫 Banca
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaIinicalbanca.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaaddBanca.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaeditaBanca.png" width="400"/>
+</p>
+
+Sistema para gerenciamento de TCCs e bancas avaliadoras, permitindo cadastro, edição e controle das informações acadêmicas.  
+🔗 https://github.com/Henric-ops/Sistema-de-reposit-rio-de-TCC
+
 
 ---
 
