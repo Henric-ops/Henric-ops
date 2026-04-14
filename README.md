@@ -5,12 +5,6 @@
 
 ---
 
-## 🧠 Sobre mim
-
-Sou estudante focado no desenvolvimento de sistemas web, CRUDs completos e modelagem de banco de dados.  
-Tenho experiência com aplicações em Java, PHP e Laravel, sempre buscando evoluir minhas habilidades práticas.
-
----
 
 ## 🛠️ Tecnologias
 
