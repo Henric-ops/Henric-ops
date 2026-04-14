@@ -1,74 +1,20 @@
 # 👋 Olá, eu sou o Henric
 
-💻 **Estudante de Análise e Desenvolvimento de Sistemas**  
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
 🇧🇷 Brasil  
 
 ---
 
-## 🌐 Onde me encontrar
+## 🧠 Sobre mim
 
-<p align="left">
-  <a href="https://github.com/Henric-ops">
-    <img src="https://img.shields.io/badge/GitHub-HENRIC--OPS-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://bit.ly/linkedin-henricbaccin">
-    <img src="https://img.shields.io/badge/LinkedIn-Henric%20Baccin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:henricbaccin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧠 O que eu faço
-
-- 💻 Desenvolvimento de sistemas  
-- 🗄️ Modelagem e banco de dados  
-- ⚡ Aplicações web  
-- 🧩 CRUDs e sistemas completos  
-
----
-
-## 🚀 Projetos
-
-
-### 💈 BarberHub
-
-<p align="center">
-</p>
-
-Sistema de agendamento para barbearia em desenvolvimento, com funcionalidades de cadastro de clientes, serviços e controle de horários.  
-
-🔧 **Status:** Em desenvolvimento  
-
-🔗 https://github.com/Henric-ops/BarberHub
-
----
-
-### 📚 Sistema de TCC e Bancas
-
-#### 📄 TCC
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaInicialTCC.png" width="400"/>
-</p>
-
-#### 🧑‍🏫 Banca
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaIinicalbanca.png" width="400"/>
-</p>
-
-Sistema para gerenciamento de TCCs e bancas avaliadoras, permitindo cadastro, edição e controle das informações acadêmicas.  
-🔗 https://github.com/Henric-ops/Sistema-de-reposit-rio-de-TCC
-
+Sou estudante focado no desenvolvimento de sistemas web, CRUDs completos e modelagem de banco de dados.  
+Tenho experiência com aplicações em Java, PHP e Laravel, sempre buscando evoluir minhas habilidades práticas.
 
 ---
 
 ## 🛠️ Tecnologias
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -82,7 +28,43 @@ Sistema para gerenciamento de TCCs e bancas avaliadoras, permitindo cadastro, ed
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos em destaque
+
+### 💈 BarberHub
+Sistema de agendamento para barbearia em desenvolvimento.
+
+**Funcionalidades:**
+- Cadastro de clientes
+- Cadastro de serviços
+- Agendamento de horários
+
+🔧 Status: Em desenvolvimento  
+🔗 Repositório: https://github.com/Henric-ops/BarberHub  
+
+---
+
+### 📚 Sistema de TCC e Bancas
+Sistema para gerenciamento de TCCs e bancas avaliadoras.
+
+## ✨ Funcionalidades
+
+### 📄 TCCs
+- Cadastro de trabalhos de conclusão de curso (TCC)
+- Edição e exclusão de registros
+- Visualização de arquivos em PDF
+- Organização dos trabalhos por aluno e tema
+
+### 👨‍🏫 Bancas Avaliadoras
+- Cadastro de bancas avaliadoras
+- Associação de professores às bancas
+- Gerenciamento completo das bancas (criação, edição e exclusão)
+- Controle das avaliações dos TCCs
+
+📄 Repositório: https://github.com/Henric-ops/Sistema-de-reposit-rio-de-TCC  
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight"/>
@@ -91,13 +73,25 @@ Sistema para gerenciamento de TCCs e bancas avaliadoras, permitindo cadastro, ed
 
 ---
 
-## 🔥 Atividade
+## 📬 Contato
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Henric-ops&theme=tokyonight" />
+
+<a href="https://github.com/Henric-ops">
+  <img src="https://img.shields.io/badge/GitHub-Henric--ops-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://bit.ly/linkedin-henricbaccin">
+  <img src="https://img.shields.io/badge/LinkedIn-Henric%20Baccin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:henricbaccin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-⭐ Se curtir meus projetos, deixe uma estrela  
+⭐ Se gostou dos projetos, deixe uma estrela  
 🤝 Aberto a oportunidades
