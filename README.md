@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Henric
 
-<!--
-**Henric-ops/Henric-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🇧🇷 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/Henric-ops">
+    <img src="https://img.shields.io/badge/GitHub-HENRIC--OPS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://bit.ly/linkedin-henricbaccin">
+    <img src="https://img.shields.io/badge/LinkedIn-Henric%20Baccin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:henricbaccin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+## 🧠 O que eu faço
+
+-   💻 Desenvolvimento de sistemas
+-   🗄️ Modelagem e manipulação de banco de dados
+-   ⚡ Criação de aplicações web
+-   🧩 CRUDs e sistemas completos
+-   📚 Aprendizado contínuo em tecnologia
+
+---
+
+## 🛠️ Tecnologias
+
+### 🎨 Frontend
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔙 Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+⭐ Se curtir meus projetos, deixe uma estrela  
+🤝 Aberto a oportunidades e colaborações
