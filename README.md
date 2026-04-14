@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Henric
 
-🚀 **Estudante de Análise e Desenvolvimento de Sistemas**  
+💻 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🇧🇷 Brasil  
 
 ---
@@ -19,14 +19,15 @@
   </a>
 </p>
 
+---
 
 ## 🧠 O que eu faço
 
--   💻 Desenvolvimento de sistemas
--   🗄️ Modelagem e manipulação de banco de dados
--   ⚡ Criação de aplicações web
--   🧩 CRUDs e sistemas completos
--   📚 Aprendizado contínuo em tecnologia
+- 💻 Desenvolvimento de sistemas  
+- 🗄️ Modelagem e banco de dados  
+- ⚡ Aplicações web  
+- 🧩 CRUDs e sistemas completos  
+- 📚 Aprendizado contínuo  
 
 ---
 
@@ -53,12 +54,19 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+## 🔥 Atividade
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Henric-ops&theme=tokyonight" />
+</p>
+
+---
 
 ⭐ Se curtir meus projetos, deixe uma estrela  
 🤝 Aberto a oportunidades e colaborações
