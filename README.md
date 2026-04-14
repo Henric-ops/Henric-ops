@@ -53,10 +53,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight)
 
 ---
 
@@ -69,4 +68,4 @@
 ---
 
 ⭐ Se curtir meus projetos, deixe uma estrela  
-🤝 Aberto a oportunidades e colaborações
+🤝 Aberto a oportunidades
