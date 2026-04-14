@@ -52,22 +52,12 @@ Sistema de agendamento para barbearia em desenvolvimento, com funcionalidades de
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaInicialTCC.png" width="400"/>
-  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaaddTCC.png" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaedicaoTCC.png" width="400"/>
 </p>
 
 #### 🧑‍🏫 Banca
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaIinicalbanca.png" width="400"/>
-  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaaddBanca.png" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Henric-ops/Sistema-de-reposit-rio-de-TCC/main/img/TelaeditaBanca.png" width="400"/>
 </p>
 
 Sistema para gerenciamento de TCCs e bancas avaliadoras, permitindo cadastro, edição e controle das informações acadêmicas.  
@@ -78,29 +68,26 @@ Sistema para gerenciamento de TCCs e bancas avaliadoras, permitindo cadastro, ed
 
 ## 🛠️ Tecnologias
 
-### 🎨 Frontend
+<p align="center">
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-### 🔙 Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
