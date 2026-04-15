@@ -1,91 +1,48 @@
 # 👋 Olá, eu sou o Henric
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🇧🇷 Brasil  
-
----
-
-
-## 🛠️ Tecnologias
+🚀 Desenvolvedor focado em Web  
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
+  <a href="https://henric-ops.github.io/henric-portifolio/">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20Portfólio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🛠️ Tecnologias
 
-### 💈 BarberHub
-Sistema de agendamento para barbearia em desenvolvimento.
-
-**Funcionalidades:**
-- Cadastro de clientes
-- Cadastro de serviços
-- Agendamento de horários
-
-🔧 Status: Em desenvolvimento  
-🔗 Repositório: https://github.com/Henric-ops/BarberHub  
-
----
-
-### 📚 Sistema de TCC e Bancas
-Sistema para gerenciamento de TCCs e bancas avaliadoras.
-
-## ✨ Funcionalidades
-
-### 📄 TCCs
-- Cadastro de trabalhos de conclusão de curso (TCC)
-- Edição e exclusão de registros
-- Visualização de arquivos em PDF
-- Organização dos trabalhos por aluno e tema
-
-### 👨‍🏫 Bancas Avaliadoras
-- Cadastro de bancas avaliadoras
-- Associação de professores às bancas
-- Gerenciamento completo das bancas (criação, edição e exclusão)
-- Controle das avaliações dos TCCs
-
-📄 Repositório: https://github.com/Henric-ops/Sistema-de-reposit-rio-de-TCC  
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Henric-ops&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📬 Contato
 
-<p align="left">
-
-<a href="https://github.com/Henric-ops">
-  <img src="https://img.shields.io/badge/GitHub-Henric--ops-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://bit.ly/linkedin-henricbaccin">
-  <img src="https://img.shields.io/badge/LinkedIn-Henric%20Baccin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:henricbaccin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-⭐ Se gostou dos projetos, deixe uma estrela  
-🤝 Aberto a oportunidades
+[![GitHub](https://img.shields.io/badge/GitHub-Henric--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henric-ops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henric%20Baccin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/linkedin-henricbaccin)
+[![Email](https://img.shields.io/badge/Email-henricbaccin%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henricbaccin@gmail.com)
