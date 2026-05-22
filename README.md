@@ -6,13 +6,12 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=Henric-ops&show_icons=true&theme=dark&bg_color=060d0a&border_color=00c896&icon_color=00c896&title_color=00c896&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
-
 ### 👋 Olá, eu sou o Henric!
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** no IFFAR — Campus São Vicente do Sul/RS
 
-🌐 Acesse meu portfólio: **[henric-ops.github.io/henric-portifolio](https://henric-ops.github.io/henric-portifolio/)**
+[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-00c896?style=for-the-badge&logoColor=white)](https://henric-ops.github.io/henric-portifolio/)
+
 
 <br clear="right"/>
 
@@ -47,19 +46,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=Henric-ops&show_icons=true&theme=dark&bg_color=060d0a&border_color=00c896&icon_color=00c896&title_color=00c896&text_color=e8f4ef&count_private=true&include_all_commits=true&hide_border=false"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=dark&bg_color=060d0a&border_color=00c896&title_color=00c896&text_color=e8f4ef&langs_count=8&hide_border=false"/>
-
+  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=Henric-ops&show_icons=true&theme=dark&bg_color=060d0a&border_color=00c896&icon_color=00c896&title_color=00c896&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=dark&bg_color=060d0a&border_color=00c896&title_color=00c896&text_color=e8f4ef&langs_count=8&hide_border=false"/>
 </div>
-
-
-
 <div align="center">
-
-<img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=Henric-ops&bg_color=060d0a&color=00c896&line=00c896&point=ffffff&area=true&area_color=00c896&border_color=00c896&hide_border=false"/>
-
+  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=Henric-ops&bg_color=060d0a&color=00c896&line=00c896&point=ffffff&area=true&area_color=00c896&border_color=00c896&hide_border=false"/>
 </div>
 
 ---
@@ -68,7 +60,6 @@
 
 <div align="center">
 
-[![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-00c896?style=for-the-badge&logoColor=white)](https://henric-ops.github.io/henric-portifolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henric-ops)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/linkedin-henricbaccin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henricbaccin@gmail.com)
