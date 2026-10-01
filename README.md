@@ -12,9 +12,6 @@
 
 [![Portfólio](https://img.shields.io/badge/🌐%20Portfólio-00c896?style=for-the-badge&logoColor=white)](https://henric-ops.github.io/henric-portifolio/)
 
-
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -46,12 +43,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api?username=Henric-ops&show_icons=true&theme=dark&bg_color=060d0a&border_color=00c896&icon_color=00c896&title_color=00c896&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats-six-kohl-71.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=dark&bg_color=060d0a&border_color=00c896&title_color=00c896&text_color=e8f4ef&langs_count=8&hide_border=false"/>
-</div>
-<div align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=Henric-ops&bg_color=060d0a&color=00c896&line=00c896&point=ffffff&area=true&area_color=00c896&border_color=00c896&hide_border=false"/>
+
+![Seguidores](https://img.shields.io/github/followers/Henric-ops?style=for-the-badge&color=00c896&labelColor=060d0a&logo=github)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Henric-ops&query=$.public_repos&label=Repos&style=for-the-badge&color=00c896&labelColor=060d0a&logo=github)
+
+<img src="./github-metrics.svg" alt="Métricas do GitHub" width="720"/>
+
 </div>
 
 ---
