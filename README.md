@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c896&height=180&section=header&text=Henric%20Baccin&fontSize=42&fontColor=ffffff&fontAlignY=38descAlignY=58&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00c896&height=180&section=header&text=Henric%20Baccin&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
 </div>
 
@@ -37,6 +37,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=Henric-ops&show_icons=true&theme=dark&bg_color=060d0a&border_color=3CB371&icon_color=00c896&title_color=3CB371&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
+  &nbsp;
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Henric-ops&layout=compact&theme=dark&bg_color=060d0a&border_color=3CB371&title_color=3CB371&text_color=e8f4ef&langs_count=8&hide_border=false"/>
+</div>
 
 
 
