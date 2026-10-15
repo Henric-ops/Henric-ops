@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c896&height=180&section=header&text=Henric%20Baccin&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20ADS%20%40%20IFFAR&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00c896&height=180&section=header&text=Henric%20Baccin&fontSize=42&fontColor=ffffff&fontAlignY=38descAlignY=58&descSize=16&animation=fadeIn"/>
 
 </div>
 
@@ -38,18 +38,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Seguidores](https://img.shields.io/github/followers/Henric-ops?style=for-the-badge&color=00c896&labelColor=060d0a&logo=github)
-![Repositórios](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Henric-ops&query=$.public_repos&label=Repos&style=for-the-badge&color=00c896&labelColor=060d0a&logo=github)
-
-<img src="./github-metrics.svg" alt="Métricas do GitHub" width="720"/>
-
-</div>
 
 ---
 
